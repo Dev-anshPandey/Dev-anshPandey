@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Devansh Pandey</h1>
+<h3 align="center">A computer science student.</h3>
+
+- 🌱 I’m currently learning **flutter , firebase , java , figma**
+
 - 📫 How to reach me **devanshpandey87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devansh-pandey-652bbb225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh pandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devansh pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh pandey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
