@@ -19,9 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-anshpandey&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
@@ -141,10 +138,6 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-anshpandey&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-anshpandey&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
 
 <br/>
 
