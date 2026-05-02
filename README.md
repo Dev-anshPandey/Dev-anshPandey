@@ -27,7 +27,7 @@
 - 🎓 **B.Tech in Computer Science & Engineering** (Class of 2024) from KIET Group of Institutions.
 - 💻 I specialize in building highly responsive, pixel-perfect frontend interfaces using **Flutter** and **React Native**.
 - ⚡ Passionate about optimizing rendering performance, managing complex application state, and delivering framework-agnostic architectural standards.
-- 🧠 Currently upskilling in **Advanced DSA (Java)** and exploring the integration of **AI-agentic capabilities** into mobile applications.
+- 🧠 Currently upskilling in **Advanced DSA , SpringBoot** and exploring the integration of **AI-agentic capabilities** into mobile applications.
 
 ---
 
